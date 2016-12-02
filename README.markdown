@@ -1,5 +1,7 @@
-ckanext-persona
+ckanext-persona (archived copy)
 ===============
+
+**This is an archived copy of [ckan/ckanext-persona](https://github.com/ckan/ckanext-persona)**.
 
 A CKAN extension that lets users login to your CKAN site using
 [Mozilla Persona](http://www.mozilla.org/en-US/persona/). Users can login
